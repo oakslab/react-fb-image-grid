@@ -1,5 +1,5 @@
 {
-  "name": "react-fb-image-grid",
+  "name": "react-fb-image-grid-2",
   "version": "0.1.5",
   "description": "A beautifully featured image grid library for React which represents the images just like the facebook grid images with the count for extra as well",
   "main": "lib/index.js",
@@ -33,10 +33,10 @@
     "react": "^16.5.2",
     "react-dom": "^16.5.2"
   },
-  "author": "Mohammad Kashif Sulaiman",
-  "homepage": "https://github.com/Expertizo/react-fb-image-grid",
+  "author": "Mohammad Kashif Sulaiman, Jan Urban, Ruslan Purii",
+  "homepage": "https://github.com/oakslab/react-fb-image-grid",
   "license": "MIT",
-  "repository": "https://github.com/Expertizo/react-fb-image-grid",
+  "repository": "https://github.com/oakslab/react-fb-image-grid",
   "keywords": [
     "react-facebook-images",
     "react-images",
