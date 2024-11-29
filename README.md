@@ -1,4 +1,4 @@
-![Classification](https://img.shields.io/badge/classification-%20restircted-yellow) 
+![Classification](https://img.shields.io/badge/classification-%20restricted-yellow) 
 
 # react-fb-image-grid
 An image library that's used to show the images in beautiful grids.
